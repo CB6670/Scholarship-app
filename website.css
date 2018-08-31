@@ -1,0 +1,15 @@
+.coolBackground{
+    background-color:red;
+    
+}
+.dongus{
+    border:8px;
+    border-color: solid #89043D;
+    border-style: solid;
+    border-radius: 25px;
+    text-align: center;
+    background-color: blue;
+}
+.mingus{
+color:white;
+}
